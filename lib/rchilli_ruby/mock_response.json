@@ -1,0 +1,586 @@
+{
+  "ResumeParserData": {
+    "ResumeFileName": "http://s3.amazonaws.testing.com/testing-docs/job/5144/resumes/123test.pdf",
+    "ResumeLanguage": "English",
+    "ParsingDate": "06/05/2022 10:35:14",
+    "FullName": "TEST CANDIDATE",
+    "TitleName": "",
+    "FirstName": "TEST",
+    "Middlename": "J.",
+    "LastName": "CANDIDATE",
+    "DateOfBirth": "",
+    "Gender": "",
+    "FatherName": "",
+    "MotherName": "",
+    "MaritalStatus": "",
+    "Nationality": "",
+    "LanguageKnown": "",
+    "UniqueID": "",
+    "LicenseNo": "",
+    "PassportNo": "",
+    "PanNo": "",
+    "VisaStatus": "",
+    "Email": "testcandidate@gmail.com",
+    "AlternateEmail": "",
+    "Phone": "",
+    "FormattedPhone": "",
+    "Mobile": "",
+    "FormattedMobile": "",
+    "FaxNo": "",
+    "WebSites": {
+      "WebSite": [
+        {
+          "Type": "Linkedin",
+          "Url": "https://www.linkedin.com/in/testcandidate"
+        }
+      ]
+    },
+    "Address": "123 test",
+    "City": "Grimes",
+    "State": "IA",
+    "Country": "USA",
+    "ZipCode": "50111",
+    "FormattedAddress": "123 test, Grimes, IA, 50111, USA",
+    "PermanentAddress": "",
+    "PermanentCity": "",
+    "PermanentState": "",
+    "PermanentCountry": "",
+    "PermanentZipCode": "",
+    "FormattedPermanentAddress": "",
+    "Category": "Logistics",
+    "SubCategory": "Logistics",
+    "CurrentSalary": "",
+    "ExpectedSalary": "",
+    "Qualification": "",
+    "SegregatedQualification": {
+      "EducationSplit": []
+    },
+    "Skills": "",
+    "SkillKeywords": {
+      "SkillSet": [
+        {
+          "Skill": "Loyalty",
+          "Type": "BehaviorSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2010",
+          "ExperienceInMonths": "36"
+        },
+        {
+          "Skill": "Troubleshoot",
+          "Type": "SoftSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Supervisory",
+          "Type": "SoftSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Supervision",
+          "Type": "SoftSkill",
+          "Alias": "GET Along With Supervisor, Supervising, Monitoring Others, Monitoring Conversations, Supervising Others, Supervise Others",
+          "FormattedName": "Supervision",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1999",
+          "ExperienceInMonths": "2"
+        },
+        {
+          "Skill": "Leader",
+          "Type": "SoftSkill",
+          "Alias": "Ability To Guide THE Team, Ability To Lead and Direct Technical Discussions, Leadership Abilities, Leadership Qualities, Provide Leadership, Teambuilding Leader, Strong Leadership, Ability To Lead Effectively Across Organizations, Self Leadership, Willingness To Lead, Group Leadership, Leadership Skills, Able To Lead, Leads Groups, Team Player and Leader, Leading Others, Leads Group Discussions",
+          "FormattedName": "Leader",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2017",
+          "ExperienceInMonths": "3"
+        },
+        {
+          "Skill": "LEADERSHIP",
+          "Type": "SoftSkill",
+          "Alias": "Ability To Guide THE Team, Ability To Lead and Direct Technical Discussions, Leadership Abilities, Leadership Qualities, Provide Leadership, Teambuilding Leader, Strong Leadership, Ability To Lead Effectively Across Organizations, Self Leadership, Willingness To Lead, Group Leadership, Leadership Skills, Able To Lead, Leads Groups, Team Player and Leader, Leading Others, Leads Group Discussions",
+          "FormattedName": "LEADERSHIP",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Information Technology",
+          "Type": "OperationalSkill",
+          "Alias": "Information Technology, Information Technology (IT) Skills, Information Technology and Services, Information Technology Auditor, Information Technology Incorporated Premier Teller, Information Technology Infrastructure Library, Information Technology Major Skills, Information Technology Strategy, Information Technology Training, Healthcare Information Technology (HIT) , HR Information Technology, HR Information Technology Solution Planning, HR Information Technology Strategy, Noldus Information Technology THE Observer, Noldus Information Technology THE Observer XT, Tapping Information Technology To Facilitate Decision Making, Noldus Information Technology Ulog PRO, Utilizing Information Technology To Enhance Productivity In Sports Organizations, Noldus Information Technology Facereader, ICT, Computer Science, Informatics",
+          "FormattedName": "Information Technology",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2015",
+          "ExperienceInMonths": "2"
+        },
+        {
+          "Skill": "Coordinate Scheduling",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "3"
+        },
+        {
+          "Skill": "Technology Projects",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2015",
+          "ExperienceInMonths": "3"
+        },
+        {
+          "Skill": "Computer Hardware",
+          "Type": "OperationalSkill",
+          "Alias": "Computer Hardware, Computer Hardware Assembly, Computer Hardware Devices, Computer Hardware Installation, Computer Hardware Related Problems, Computer Hardware Troubleshooting, Embedded Computer Hardware, Troubleshooting Of Computer Hardware Devices",
+          "FormattedName": "Computer Hardware",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Training Programs",
+          "Type": "OperationalSkill",
+          "Alias": "Training Program Development, Training Programme Design, Training Programs, Safety Training Programs, Promoting Training Programs To Targeted Segment Of Employees, Management Training Programs, Implementing Training Programs, Development Of Training Programs, Developing Training Programs, Designing Training Programs, Corporate Training Programs, Assess Effectiveness Of Training Programs, Arrange Outside Training Programs",
+          "FormattedName": "Training Programs",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Customer Service",
+          "Type": "OperationalSkill",
+          "Alias": "Answering Customer Questions, Maintain A High Level Of Customer Service, Claims Management, Client Services, Client Support, Customer Care, Customer Claim Management, Customer Service Management, Customer Support, Customer Services Management, Postsale Support, END User Support, After-Sales Service, After Sales, END-User Support, Aftersales, Post Sales, Focus On Customer Service, Service Philosophy, Service Desk, Support With Customer",
+          "FormattedName": "Customer Service",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1999",
+          "ExperienceInMonths": "192"
+        },
+        {
+          "Skill": "Business Process",
+          "Type": "OperationalSkill",
+          "Alias": "Business Process, Business Process Analysis, Business Process Analysis Tools, Business Process AS A Service, Business Process Automation, Business Process Design, Business Process Documentation, Business Process Efficiency, Business Process Excellence, Business Process Execution Language, Business Process Execution Language (Bpel) , Business Process Implementation, Business Process Improvement, Business Process Integration, Business Process IT Alignment, Business Process Management, Business Process Management BPM Software, Business Process Modeling, Business Process Modelling, Business Process Modelling Language, Business Process Modelling Notation, Business Process Optimization, Business Process Outsourcing, Business Process Outsourcing (BPO) , Business Process RE-Engineering",
+          "FormattedName": "Business Process",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2015",
+          "ExperienceInMonths": "72"
+        },
+        {
+          "Skill": "On-Site Training",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Documentation",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Interactive",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1997",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Timeliness",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2015",
+          "ExperienceInMonths": "72"
+        },
+        {
+          "Skill": "Logistics",
+          "Type": "OperationalSkill",
+          "Alias": "Logistic, Logistics",
+          "FormattedName": "Logistics",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "Macintosh",
+          "Type": "OperationalSkill",
+          "Alias": "Apple MAC, Macintosh, Apple Macintosh",
+          "FormattedName": "Macintosh",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1997",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Graphics",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1997",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Training",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "120"
+        },
+        {
+          "Skill": "FM Radio",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2017",
+          "ExperienceInMonths": "36"
+        },
+        {
+          "Skill": "Helpdesk",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2017",
+          "ExperienceInMonths": "36"
+        },
+        {
+          "Skill": "Pharmacy",
+          "Type": "OperationalSkill",
+          "Alias": "Pharmacy",
+          "FormattedName": "Pharmacy",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2010",
+          "ExperienceInMonths": "36"
+        },
+        {
+          "Skill": "Windows",
+          "Type": "OperationalSkill",
+          "Alias": "Windows",
+          "FormattedName": "Windows",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/1997",
+          "ExperienceInMonths": "24"
+        },
+        {
+          "Skill": "Retail",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "ExperienceSection",
+          "LastUsed": "31/12/2008",
+          "ExperienceInMonths": "156"
+        },
+        {
+          "Skill": "Enterprise Technology",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Retail Technology",
+          "Type": "OperationalSkill",
+          "Alias": "Retail Technology, Downstream Retail Technology",
+          "FormattedName": "Retail Technology",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Project Plan",
+          "Type": "OperationalSkill",
+          "Alias": "Project Plan, Project Plan &AMP; Planning, Project Planning and Management, Project Planning Software, Project Plans, Capital Project Planning, Help Project Managers With Project Planning, Microsoft Project Plan, Capital Projects Strategic Project Planning, Direct Marketing Project Planning, Preparing Project Plan, MS Project Plan, Participating In Project Planning, Reviewing Of Project Plans, SAP Psd Project Planning and Scoping",
+          "FormattedName": "Project Plan",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Monday.com",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Smart Sheet",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Waterfall",
+          "Type": "OperationalSkill",
+          "Alias": "",
+          "FormattedName": "",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Childcare",
+          "Type": "OperationalSkill",
+          "Alias": "Childcare",
+          "FormattedName": "Childcare",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        },
+        {
+          "Skill": "Agile",
+          "Type": "OperationalSkill",
+          "Alias": "Agile Development, Agile Methodologies, Agile/Scrum Methodology, Agile Methods, Agile Methodology, Agile Software  Development",
+          "FormattedName": "Agile",
+          "Evidence": "Others",
+          "LastUsed": "",
+          "ExperienceInMonths": "0"
+        }
+      ]
+    },
+    "Experience": "Smart Sheet \n \tMiro \n \t2017 - Present \n \tDirector IT Projects / Senior IT Project Manager, Hy-Vee, Inc.\tMonday.com \n \tWest Des Moines, IA \n \t.\t  Manage large enterprise technology projects in agile and waterfall\tLEADERSHIP environment. \n \t.\t  Experience with multiple enterprise-wide projects with budgets exceeding\tPast President, University of \n \t$20MM.\tIowa Student Government \n \t.\t  Work with leadership and product teams to deliver on time and under\tChildcare & Student Families budget. \n \tCommission \n \t.\t  Manage project plan and communicate updates to stakeholders. \n  \n \t2015 - 2017 \t Coach / Mentor / Judge \n \tDirector, Support Services, Hy-Vee, Inc.\tFIRST LEGO League \n \tWest Des Moines, IA \n \t.\t  Oversee technology helpdesk services for end-users, including : all retail, \n \tStation Manager, KWDM 88.7 \n \tpharmacy, corporate, and subsidiary employees. \n \t.\t  Leader to over 30 members of the Support Services team.\tFM Radio Station \n \t.\t  Implement key technology projects.\tWest Des Moines, IA \n  \n \t2010 - 2015 \n \tAssistant Director, Pharmacy Technology, Hy-Vee, Inc. \n \tWest Des Moines, IA \n \t.\t  Responsible for all Pharmacy Information Technology Projects. \n \t.\t  Develops, Leads, and Motivates Pharmacy Support staff to deliver excellent applications and business process support with outstanding \n \tcustomer service, satisfaction and resolution timeliness. \n  \n \tBryan J. Romig\n CONTINUED \n  \n \t2008 - 2010 \n \tRetail Technology  - Project Coordinator, Hy-Vee, Inc. \n \tWest Des Moines, IA \n \t.\t  Coordinate project details for a variety of business initiatives, including pharmacy and loyalty. \n  \n \t1999 - 2008 \n \tTraining Supervisor, Hy-Vee, Inc. \n \tWest Des Moines, IA \n \t.\t  Conduct and oversee training at new, relocated, and remodeled retail \n \tsites : Supervisory Training, Train-the-Trainers, Backroom software, \n \tCustomer Service. \n \t.\t  Develop Computer-Based Training programs for cashiers. \n \t.\t  Coordinate scheduling and logistics for on-site training programs. \n \t.\t  Create training materials & documentation for new systems. \n \t.\t  Troubleshoot computer hardware & software problems. \n  \n \t1996 - 1999 \n \tVarious Retail Positions, Hy-Vee Food Stores \n \tWest Des Moines, IA \n \t.\t  Responsible for ensuring superior customer service through the \n \tsupervision of front-end employees. \n \t.\t  Uphold company integrity by maintaining pricing accuracy and signage. \n  \n \t1996 - 1997 \n \tWeb Specialist, City of Iowa City, Iowa \n \t.\t  Developed, coded, and created web content for the City's interactive government television station. \n \t.\t  Performed graphics work on Macintosh, Amiga, and Windows \n \tworkstations.",
+    "SegregatedExperience": {
+      "WorkHistory": [
+        {
+          "Employer": "Smart Sheet",
+          "JobProfile": {
+            "Title": "Coach/Mentor/Judge",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "",
+            "EmployerState": "Iowa",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "2015 - 2017",
+          "StartDate": "01/01/2015",
+          "EndDate": "31/12/2017",
+          "JobDescription": "Director, Support Services, Hy-Vee, Inc. FIRST LEGO League West Des Moines, IA \n \t.\t Oversee technology helpdesk services for end-users, including : all retail, \n \t Station Manager, KWDM 88.7 \n \tpharmacy, corporate, and subsidiary employees. \n \t.\t Leader to over 30 members of the Support Services team.\tFM Radio Station \n \t.\t Implement key technology projects. West Des Moines, IA",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Pharmacy Technology, Hy-Vee, Inc",
+          "JobProfile": {
+            "Title": "Assistant Director",
+            "FormattedName": "Deputy General Manager",
+            "Alias": "Assistant Director, Deputy General Manager, Chief Executive, CEO, General Manager, Chief Executive Officer, MD, GM, General Director, Director-General, Asst. Director, Deputy General Manager, Chief Executive, CEO, General Manager, Chief Executive Officer, MD, GM, General Director, Director-General, Assist. Director, Deputy General Manager, Chief Executive, CEO, General Manager,",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "West Des Moines",
+            "EmployerState": "IA",
+            "EmployerCountry": "USA",
+            "IsoCountry": "US"
+          },
+          "JobPeriod": "2010 - 2015",
+          "StartDate": "01/01/2010",
+          "EndDate": "31/12/2015",
+          "JobDescription": ".\t Responsible for all Pharmacy Information Technology Projects. \n \t.\t Develops, Leads, and Motivates Pharmacy Support staff to deliver excellent applications and business process support with outstanding \n \tcustomer service, satisfaction and resolution timeliness. \n \n \tBryan J. Romig \n \n \n CONTINUED",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Hy-Vee, Inc",
+          "JobProfile": {
+            "Title": "Project Coordinator",
+            "FormattedName": "Project Manager",
+            "Alias": "Project Executive, Project Manager, Project Responsible, Project Leader, Clerk of Works, Project Coordinator, Project Lead, Head of Projects,",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "West Des Moines",
+            "EmployerState": "IA",
+            "EmployerCountry": "USA",
+            "IsoCountry": "US"
+          },
+          "JobPeriod": "2008 - 2010",
+          "StartDate": "01/01/2008",
+          "EndDate": "31/12/2010",
+          "JobDescription": ".\t Coordinate project details for a variety of business initiatives, including pharmacy and loyalty.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Hy-Vee, Inc",
+          "JobProfile": {
+            "Title": "Training Supervisor",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "West Des Moines",
+            "EmployerState": "IA",
+            "EmployerCountry": "USA",
+            "IsoCountry": "US"
+          },
+          "JobPeriod": "1999 - 2008",
+          "StartDate": "01/01/1999",
+          "EndDate": "31/12/2008",
+          "JobDescription": "Training Supervisor, Hy-Vee, Inc. West Des Moines, IA \n \t.\t Conduct and oversee training at new, relocated, and remodeled retail \n \tsites : Supervisory Training, Train-the-Trainers, Backroom software, \n \tCustomer Service. \n \t.\t Develop Computer-Based Training programs for cashiers. \n \t.\t Coordinate scheduling and logistics for on-site training programs. \n \t.\t Create training materials & documentation for new systems. \n \t.\t Troubleshoot computer hardware & software problems.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "Vee Food Stores",
+          "JobProfile": {
+            "Title": "",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "West Des Moines",
+            "EmployerState": "IA",
+            "EmployerCountry": "USA",
+            "IsoCountry": "US"
+          },
+          "JobPeriod": "1996 - 1999",
+          "StartDate": "01/01/1996",
+          "EndDate": "31/12/1999",
+          "JobDescription": ".\t Responsible for ensuring superior customer service through the \n \tsupervision of front-end employees. \n \t.\t Uphold company integrity by maintaining pricing accuracy and signage.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        },
+        {
+          "Employer": "City of Iowa City",
+          "JobProfile": {
+            "Title": "Web Specialist",
+            "FormattedName": "",
+            "Alias": "",
+            "RelatedSkills": ""
+          },
+          "JobLocation": {
+            "EmployerCity": "",
+            "EmployerState": "Iowa",
+            "EmployerCountry": "",
+            "IsoCountry": ""
+          },
+          "JobPeriod": "1996 - 1997",
+          "StartDate": "01/01/1996",
+          "EndDate": "31/12/1997",
+          "JobDescription": ".\t Developed, coded, and created web content for the City's interactive government television station. \n \t.\t Performed graphics work on Macintosh, Amiga, and Windows \n \tworkstations.",
+          "Projects": [
+            {
+              "UsedSkills": "",
+              "ProjectName": "",
+              "TeamSize": ""
+            }
+          ]
+        }
+      ]
+    },
+    "CurrentEmployer": "Smart Sheet",
+    "JobProfile": "Coach/Mentor/Judge",
+    "WorkedPeriod": {
+      "TotalExperienceInMonths": "264",
+      "TotalExperienceInYear": "22.0",
+      "TotalExperienceRange": "GREATER THAN 10 YEAR"
+    },
+    "GapPeriod": "",
+    "AverageStay": "52",
+    "LongestStay": "108",
+    "Summary": "",
+    "ExecutiveSummary": "BRYAN has an experience in the domain of Logistics, particularly in Logistics. and is currently working as Coach/Mentor/Judge at Smart Sheet for the last 3.0 years.",
+    "ManagementSummary": "Currently BRYAN holds a High Management Level position, as Assistant Director at Pharmacy Technology, Hy-Vee, Inc. from 01/01/2010 to 31/12/2015. The candidate has a total experience of 6.0 years in this company.\n\nBRYAN holds a High Management Level position, as Project Coordinator at Hy-Vee, Inc. from 01/01/2008 to 31/12/2010. The candidate has a total experience of 3.0 years in this company.\n\nBRYAN holds a Low Management Level position, as Training Supervisor at Hy-Vee, Inc. from 01/01/1999 to 31/12/2008. The candidate has a total experience of 10.0 years in this company.",
+    "Coverletter": "",
+    "Certification": "",
+    "Publication": "",
+    "CurrentLocation": "",
+    "PreferredLocation": "",
+    "Availability": "",
+    "Hobbies": "",
+    "Objectives": "EDUCATION \n \tMy strong background in education and technology, coupled with\tB.A. Elementary Education project management experience, make me an ideal candidate for\tEarly Childhood specialization many IT positions. In addition to 12 years of project and program\tPsychology Minor management experience, I have also served as a Scrum Master\tUniversity of Iowa \n \t (CSM) for Agile teams. The vigorous focus on customer service I\tIowa City, Iowa acquired working retail keeps me focused on serving my customers. \n \tMy ability and desire to serve with diverse groups of people\tSKILLS \n \tstrengthens my qualifications.\tMicrosoft Office Suite \n \tAtlassian Jira & Confluence",
+    "Achievements": "",
+    "References": "Available upon request.",
+    "CustomFields": "Parsing Time : 1439ms",
+    "EmailInfo": {
+      "EmailTo": " ",
+      "EmailBody": " ",
+      "EmailReplyTo": " ",
+      "EmailSignature": " ",
+      "EmailFrom": " ",
+      "EmailSubject": " ",
+      "EmailCC": " "
+    },
+    "Recommendations": {
+      "Recommendation": [
+        {
+          "PersonName": "",
+          "PositionTitle": "",
+          "CompanyName": "",
+          "Relation": "",
+          "Description": ""
+        }
+      ]
+    },
+    "DetailResume": "REFERENCES\n\tAvailable upon request.",
+    "HtmlResume": "",
+    "CandidateImage": {
+      "CandidateImageData": "",
+      "CandidateImageFormat": ""
+    },
+    "TemplateOutput": {
+      "TemplateOutputFileName": "",
+      "TemplateOutputData": ""
+    },
+    "Platform": ""
+  }
+}
