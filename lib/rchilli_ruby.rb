@@ -19,11 +19,8 @@ module RchilliRuby
     end
 
     def parse_resume(file_name, base_64_data)
-      return File.read("#{Rails.root}/../../lib/rchilli_ruby/mock_response.json") if Rails.env.test?
-
-      parse_params = { user_key: user_key, version: version, sub_user_id: sub_user_id, file_name: file_name,
-                       base_64_data: base_64_data }
-      ResumeParser.new.parse(parse_params)
+      parser = RchilliRuby::ResumeParser.new(user_key,version,sub_user_id)
+      parser.parse(file_name,base_64_data)
     end
   end
 end
