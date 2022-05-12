@@ -4,14 +4,6 @@ source 'https://rubygems.org'
 # Bundler will treat runtime dependencies like base dependencies, and
 # development dependencies will be added by default to the :development group.
 gemspec
-gem 'rails', '~> 5.1.4'
-gem 'rubocop'
-gem 'httparty'
-gem 'rspec-rails', '~> 4.0'
-gem 'shoulda-matchers'
-gem 'database_cleaner'
-gem 'factory_bot_rails', '~> 5.2'
-gem "faker"
 
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or

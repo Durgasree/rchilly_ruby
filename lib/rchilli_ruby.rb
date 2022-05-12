@@ -1,42 +1,29 @@
 # frozen_string_literal: true
 
+require 'rchilli_ruby/resume_parser'
+require 'rchilli_ruby/jd_parser'
+
+# Module will handle parsing functionality
 module RchilliRuby
-
   require 'open-uri'
-  class ResumeParser
-    attr_accessor :userkey, :version, :subuserid
+  BASE_URL = 'https://rest.rchilli.com/RChilliParser/Rchilli/'
 
-    BASE_URL = "https://rest.rchilli.com/RChilliParser/Rchilli/"
+  # Client class to set headers for rchilli
+  class Client
+    attr_accessor :user_key, :version, :sub_user_id
 
-    def initialize(userkey, version, subuserid)
-      @userkey = userkey
+    def initialize(user_key, version, sub_user_id)
+      @user_key = user_key
       @version = version
-      @subuserid = subuserid
+      @sub_user_id = sub_user_id
     end
 
-    def parse(file_name, base_64_data)
-      @data = File.read("#{Rails.root}/../../lib/rchilli_ruby/mock_response.json")
-      return @data if %w[development test].include?(Rails.env)
+    def parse_resume(file_name, base_64_data)
+      return File.read("#{Rails.root}/../../lib/rchilli_ruby/mock_response.json") if Rails.env.test?
 
-      params = {
-        'filedata' => base_64_data,
-        'filename' => file_name,
-        'userkey' => userkey,
-        'version' => version,
-        'subuserid' => subuserid
-      }
-
-      headers = { 'Content-Type' => 'application/json',
-                  'Accept' => 'application/json' }
-
-      
-      HTTParty.post(client_api_url,
-                    body: params.to_json,
-                    headers: headers)
-    end
-
-    def client_api_url
-      "#{BASE_URL}parseResumeBinary/"
+      parse_params = { user_key: user_key, version: version, sub_user_id: sub_user_id, file_name: file_name,
+                       base_64_data: base_64_data }
+      ResumeParser.new.parse(parse_params)
     end
   end
 end
