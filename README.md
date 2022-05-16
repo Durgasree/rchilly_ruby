@@ -1,8 +1,21 @@
 # RchilliRuby
-Short description and motivation.
+
+RChilli resume parser is a deep learning/AI framework that identifies complete information from resumes and enriches it through its taxonomies. It extracts candidate data from resumes in 140+ data fields through REST API.
 
 ## Usage
-How to use my plugin.
+
+To create a client object - 
+
+ client = RchilliRuby::Client.new(rchilli_user_key, rchilli_version, rchilli_sub_user_id)
+
+ parse_resume method need filename and base64data of that file to get the parsed data from the resume.
+
+ rchilli.parse_resume(file_name, base_64_data)
+
+## Example
+	
+	client = RchilliRuby::Client.new("User123XX", '7.0.0', "Subuser123XX")
+
 
 ## Installation
 Add this line to your application's Gemfile:
