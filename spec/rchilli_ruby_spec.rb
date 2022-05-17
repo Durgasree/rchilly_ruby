@@ -19,7 +19,7 @@ describe RchilliRuby::Client do
     expect(client.class.name).to eq('RchilliRuby::Client')
     stub = client.parse_resume(params[:file_name], params[:base64_data])
     allow(stub).to receive(:response) do
-      File.read("#{Rails.root}/../../lib/rchilli_ruby/mock_response.json")
+      File.read("#{Rails.root}/../../spec/fixtures/mock_response.json")
     end
   end
 end

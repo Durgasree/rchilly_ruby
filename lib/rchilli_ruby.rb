@@ -19,8 +19,12 @@ module RchilliRuby
     end
 
     def parse_resume(file_name, base_64_data)
-      parser = RchilliRuby::ResumeParser.new(user_key,version,sub_user_id)
-      parser.parse(file_name,base_64_data)
+      parser = RchilliRuby::ResumeParser.new(user_key, version, sub_user_id)
+      parser.parse(file_name, base_64_data)
+    end
+
+    def parse_jd
+      #TODO: Need to develop in future
     end
   end
 end
