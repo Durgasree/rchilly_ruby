@@ -1,4 +1,4 @@
 module RchilliRuby
-  class JdParser
+  class JDParser
   end
 end

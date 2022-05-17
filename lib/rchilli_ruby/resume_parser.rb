@@ -12,9 +12,7 @@ module RchilliRuby
     def parse(file_name, base_64_data)
       @file_name = file_name
       @base_64_data = base_64_data
-      HTTParty.post(resume_parse_url,
-                    body: params,
-                    headers: headers)
+      HTTParty.post(resume_parse_url, body: params, headers: headers)
     end
 
     private
@@ -24,8 +22,10 @@ module RchilliRuby
     end
 
     def headers
-      { 'Content-Type' => 'application/json',
-        'Accept' => 'application/json' }
+      { 
+        'Content-Type' => 'application/json',
+        'Accept' => 'application/json' 
+      }
     end
 
     def params
